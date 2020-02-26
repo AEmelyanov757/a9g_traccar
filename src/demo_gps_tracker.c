@@ -33,7 +33,7 @@
  * Andrey Emelyanov
  * aemelyanov757@gmail.com
  */
-#define SERVER_IP    "77.82.83.234" // IP адрес сервера или доменное имя
+#define SERVER_IP    "XX.XX.XX.XX"  // IP адрес сервера или доменное имя
 #define SERVER_PORT  5005           // Порт сервера для данных с трекера
 #define TRACKER_ID   234707         // ID номер трекера
 
