@@ -3,7 +3,7 @@
 
 
 # Name of the this module
-LOCAL_NAME := demo/gps_tracker
+LOCAL_NAME := a9g_traccar
 
 
 # Space-separated list of modules (libraries) your module depends upon.
